@@ -1,0 +1,162 @@
+{
+  "version": "v1",
+  "config": {
+    "visState": {
+      "filters": [
+        {
+          "dataId": "bookings",
+          "id": "2l16eicm",
+          "name": "duration_in_min",
+          "type": "range",
+          "value": [
+            1,
+            120
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "bookings",
+          "id": "rr5pqlc4k",
+          "name": "date_from",
+          "type": "timeRange",
+          "value": [
+            1388675542985,
+            1388694485985
+          ],
+          "enlarged": true,
+          "plotType": "histogram",
+          "yAxis": null
+        }
+      ],
+      "layers": [
+        {
+          "id": "6fcgw7",
+          "type": "arc",
+          "config": {
+            "dataId": "bookings",
+            "label": "Buchungen",
+            "color": [
+              130,
+              154,
+              227
+            ],
+            "columns": {
+              "lat0": "from_station_lat",
+              "lng0": "from_station_lng",
+              "lat1": "to_station_lat",
+              "lng1": "to_station_lng"
+            },
+            "isVisible": true,
+            "visConfig": {
+              "opacity": 0.5,
+              "thickness": 1,
+              "colorRange": {
+                "name": "Uber Viz Diverging 3.5",
+                "type": "diverging",
+                "category": "Uber",
+                "colors": [
+                  "#00939C",
+                  "#2FA7AE",
+                  "#5DBABF",
+                  "#8CCED1",
+                  "#BAE1E2",
+                  "#F8C0AA",
+                  "#EB9C80",
+                  "#DD7755",
+                  "#D0532B",
+                  "#C22E00"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null
+            },
+            "textLabel": [
+              {
+                "field": null,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 18,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "start",
+                "alignment": "center"
+              }
+            ]
+          },
+          "visualChannels": {
+            "colorField": {
+              "name": "duration_in_min",
+              "type": "integer"
+            },
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        }
+      ],
+      "interactionConfig": {
+        "tooltip": {
+          "fieldsToShow": {
+            "bookings": [
+              "date_from",
+              "date_until",
+              "from_station_name",
+              "to_station_name",
+              "booked_via",
+              "duration_in_min"
+            ]
+          },
+          "enabled": true
+        },
+        "brush": {
+          "size": 0.5,
+          "enabled": false
+        }
+      },
+      "layerBlending": "normal",
+      "splitMaps": [],
+      "animationConfig": {
+        "currentTime": null,
+        "speed": 1
+      }
+    },
+    "mapState": {
+      "bearing": 0,
+      "dragRotate": false,
+      "latitude": 53.56254828110063,
+      "longitude": 9.997696802102597,
+      "pitch": 0,
+      "zoom": 11.677755783813819,
+      "isSplit": false
+    },
+    "mapStyle": {
+      "styleType": "dark",
+      "topLayerGroups": {},
+      "visibleLayerGroups": {
+        "label": true,
+        "road": true,
+        "border": false,
+        "building": true,
+        "water": true,
+        "land": true,
+        "3d building": false
+      },
+      "threeDBuildingColor": [
+        9.665468314072013,
+        17.18305478057247,
+        31.1442867897876
+      ],
+      "mapStyles": {}
+    }
+  }
+}

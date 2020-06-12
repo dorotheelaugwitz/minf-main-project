@@ -1,0 +1,122 @@
+{
+  "version": "v1",
+  "config": {
+    "visState": {
+      "filters": [],
+      "layers": [
+        {
+          "id": "c4w72y",
+          "type": "heatmap",
+          "config": {
+            "dataId": "Ausleihen",
+            "label": "Point",
+            "color": [
+              221,
+              178,
+              124
+            ],
+            "columns": {
+              "lat": "latitude",
+              "lng": "longitude"
+            },
+            "isVisible": true,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Ice And Fire 8",
+                "type": "diverging",
+                "category": "Uber",
+                "colors": [
+                  "#007A99",
+                  "#0198BD",
+                  "#49E3CE",
+                  "#E8FEB5",
+                  "#FEEDB1",
+                  "#FEAD54",
+                  "#D50255",
+                  "#7F1941"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": [
+              {
+                "field": null,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 18,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "start",
+                "alignment": "center"
+              }
+            ]
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "from_count",
+              "type": "integer"
+            },
+            "weightScale": "linear"
+          }
+        }
+      ],
+      "interactionConfig": {
+        "tooltip": {
+          "fieldsToShow": {
+            "Ausleihen": [
+              "station_name",
+              "mean_q3_duration_in_min",
+              "from_count",
+              "to_count"
+            ]
+          },
+          "enabled": true
+        },
+        "brush": {
+          "size": 0.5,
+          "enabled": false
+        }
+      },
+      "layerBlending": "normal",
+      "splitMaps": [],
+      "animationConfig": {
+        "currentTime": null,
+        "speed": 1
+      }
+    },
+    "mapState": {
+      "bearing": 0,
+      "dragRotate": false,
+      "latitude": 53.566254211789065,
+      "longitude": 9.995273173882579,
+      "pitch": 0,
+      "zoom": 11.383748199960017,
+      "isSplit": false
+    },
+    "mapStyle": {
+      "styleType": "dark",
+      "topLayerGroups": {},
+      "visibleLayerGroups": {
+        "label": true,
+        "road": true,
+        "border": false,
+        "building": true,
+        "water": true,
+        "land": true,
+        "3d building": false
+      },
+      "threeDBuildingColor": [
+        9.665468314072013,
+        17.18305478057247,
+        31.1442867897876
+      ],
+      "mapStyles": {}
+    }
+  }
+}
