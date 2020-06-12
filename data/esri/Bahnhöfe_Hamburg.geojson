@@ -1,0 +1,2577 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.028805049721429,
+          53.56013052545445
+        ]
+      },
+      "properties": {
+        "OBJECTID": "1",
+        "gml_id": "id37f33e11-6966-4214-9da1-a2b64c0224c6",
+        "UUID": "DEHHATKA10000Ib8",
+        "BEG": "20130307143457",
+        "BFK": "Haltestelle",
+        "NAM": "Lübecker Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.137048316144337,
+          53.69478689475586
+        ]
+      },
+      "properties": {
+        "OBJECTID": "2",
+        "gml_id": "idee5ab6e9-805f-47cd-aae6-286c00c12a1e",
+        "UUID": "DEHHATKA10000IZm",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Ohlstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001258370535723,
+          53.59040342706421
+        ]
+      },
+      "properties": {
+        "OBJECTID": "3",
+        "gml_id": "idf12345aa-366e-4b43-b366-822ced41ef89",
+        "UUID": "DEHHATKA10000Ian",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Sierichstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988207318202955,
+          53.58168210069545
+        ]
+      },
+      "properties": {
+        "OBJECTID": "4",
+        "gml_id": "id202582e0-7d1d-46f7-812b-1cac80e8a579",
+        "UUID": "DEHHATKA10000IbR",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Klosterstern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985206320824846,
+          53.5837267556197
+        ]
+      },
+      "properties": {
+        "OBJECTID": "5",
+        "gml_id": "id51930014-490f-4ced-87f0-3f1d522c555a",
+        "UUID": "DEHHATKA10000IaY",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Eppendorfer Baum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983348673987592,
+          53.549374817292325
+        ]
+      },
+      "properties": {
+        "OBJECTID": "6",
+        "gml_id": "id0c6249ab-deba-4f96-8f4f-14642d02cc3b",
+        "UUID": "DEHHATKA10000Ial",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Stadthausbrücke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.15561185057372,
+          53.66457375797049
+        ]
+      },
+      "properties": {
+        "OBJECTID": "7",
+        "gml_id": "id7f10e440-3c97-4396-8edf-411119fda9af",
+        "UUID": "DEHHATKA10000Ias",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Buckhorn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95179044303481,
+          53.62040412556127
+        ]
+      },
+      "properties": {
+        "OBJECTID": "8",
+        "gml_id": "id7bb2a90c-8e72-43e0-9fe8-9427cd322022",
+        "UUID": "DEHHATKA10000IcL",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Niendorf-Markt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94942001178218,
+          53.561832266502684
+        ]
+      },
+      "properties": {
+        "OBJECTID": "9",
+        "gml_id": "id6ccf54e5-e4f6-4149-a6e3-e20d6c136f48",
+        "UUID": "DEHHATKA10000IZX",
+        "BEG": "20101125132129",
+        "BFK": "Haltepunkt",
+        "NAM": "Holstenstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.052474908263035,
+          53.593662017263284
+        ]
+      },
+      "properties": {
+        "OBJECTID": "10",
+        "gml_id": "id646aa40b-aa21-4b30-ae41-132211f167a7",
+        "UUID": "DEHHATKA10000IbS",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Habichtstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.971122777243862,
+          53.54594169025483
+        ]
+      },
+      "properties": {
+        "OBJECTID": "11",
+        "gml_id": "id2b3e0420-b8f5-4bec-b4f5-755bb90251d8",
+        "UUID": "DEHHATKA10000IZU",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Landungsbrücken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969266096993849,
+          53.56415122874825
+        ]
+      },
+      "properties": {
+        "OBJECTID": "12",
+        "gml_id": "id8f347f6a-2a97-48ec-b24c-59df1c5cbcc2",
+        "UUID": "DEHHATKA10000IcN",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Sternschanze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.006700317814511,
+          53.6321865920214
+        ]
+      },
+      "properties": {
+        "OBJECTID": "13",
+        "gml_id": "id0e096102-b667-40db-a1cc-3ec1c641d02a",
+        "UUID": "DEHHATKA10000IbZ",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Hamburg Airport (Flughafen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.943876933965326,
+          53.59310035850775
+        ]
+      },
+      "properties": {
+        "OBJECTID": "14",
+        "gml_id": "id09b23779-afbe-4959-a186-350207d30111",
+        "UUID": "DEHHATKA10000Icb",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Hagenbecks Tierpark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.976130942445009,
+          53.577516056102695
+        ]
+      },
+      "properties": {
+        "OBJECTID": "15",
+        "gml_id": "id1750b43c-e860-4c53-a230-cca1245e4e56",
+        "UUID": "DEHHATKA10000Iaf",
+        "BEG": "20091221080722",
+        "BFK": "Haltepunkt",
+        "NAM": "Hoheluftbrücke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.818127278624257,
+          53.474685448253865
+        ]
+      },
+      "properties": {
+        "OBJECTID": "16",
+        "gml_id": "id8b556595-031a-4cea-9af4-ec8d3df1ffef",
+        "UUID": "DEHHATKA10000IcW",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Fischbek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.023215411325081,
+          53.553407091764356
+        ]
+      },
+      "properties": {
+        "OBJECTID": "17",
+        "gml_id": "id3a8babd3-dbd9-4b41-a78e-2a43167f5583",
+        "UUID": "DEHHATKA10000Ici",
+        "BEG": "20091214111226",
+        "BFK": "Haltestelle",
+        "NAM": "Berliner Tor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01451446692534,
+          53.59078093887613
+        ]
+      },
+      "properties": {
+        "OBJECTID": "18",
+        "gml_id": "idd0828559-b9d5-4a01-9789-d11949930c6b",
+        "UUID": "DEHHATKA10000Ibb",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Borgweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08510383671138,
+          53.553969998994916
+        ]
+      },
+      "properties": {
+        "OBJECTID": "19",
+        "gml_id": "id7ca4a7ee-c38b-4240-a0fc-ec4bb270b70f",
+        "UUID": "DEHHATKA10000Ib7",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Horner Rennbahn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.074856379667946,
+          53.59244756306362
+        ]
+      },
+      "properties": {
+        "OBJECTID": "20",
+        "gml_id": "idd4b865bb-3d3b-44a9-8212-43748e2a4bd1",
+        "UUID": "DEHHATKA10000IaI",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Wandsbek-Gartenstadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.963082620092418,
+          53.465448517863294
+        ]
+      },
+      "properties": {
+        "OBJECTID": "21",
+        "gml_id": "id99db45ad-24d5-444f-b427-5d63cfa56f4a",
+        "UUID": "DEHHATKA10000Iac",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Heimfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02668668304262,
+          53.56481842406005
+        ]
+      },
+      "properties": {
+        "OBJECTID": "22",
+        "gml_id": "ide19b8895-d9df-49b5-8c2d-0d13a5019bf3",
+        "UUID": "DEHHATKA10000Icd",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Uhlandstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986165516732422,
+          53.555667372432026
+        ]
+      },
+      "properties": {
+        "OBJECTID": "23",
+        "gml_id": "idcbea4410-0d33-410b-b621-92d6ee03b1d9",
+        "UUID": "DEHHATKA10000Ib9",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Gänsemarkt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.033114596024419,
+          53.60589095566772
+        ]
+      },
+      "properties": {
+        "OBJECTID": "24",
+        "gml_id": "idf28f92c2-079b-4839-a92d-4e09590d371b",
+        "UUID": "DEHHATKA10000Ibn",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Rübenkamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0218504526919,
+          53.609346475241594
+        ]
+      },
+      "properties": {
+        "OBJECTID": "25",
+        "gml_id": "id6436d0d9-c107-4c46-adaa-af380d6b125e",
+        "UUID": "DEHHATKA10000IaR",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Sengelmannstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.000554252151401,
+          53.54769364174459
+        ]
+      },
+      "properties": {
+        "OBJECTID": "26",
+        "gml_id": "id93b69ed2-b9f5-4be1-93fe-6abc43d91fa1",
+        "UUID": "DEHHATKA10000Ia6",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Meßberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.011404965637356,
+          53.60635515707828
+        ]
+      },
+      "properties": {
+        "OBJECTID": "27",
+        "gml_id": "id6f57cb3f-3342-494e-b1b9-b9f4fc5444a2",
+        "UUID": "DEHHATKA10000IaV",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Alsterdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96861894617159,
+          53.557119195955245
+        ]
+      },
+      "properties": {
+        "OBJECTID": "28",
+        "gml_id": "idee0f2f3e-0c6a-4def-bdb4-9ac49e7e3270",
+        "UUID": "DEHHATKA10000Iby",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Feldstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0134017417492,
+          53.52204627934742
+        ]
+      },
+      "properties": {
+        "OBJECTID": "29",
+        "gml_id": "id7c58a16f-d906-41a5-b04f-b21e7e6484e4",
+        "UUID": "DEHHATKA10000IZr",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Veddel (BallinStadt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99460640065404,
+          53.59987112440131
+        ]
+      },
+      "properties": {
+        "OBJECTID": "30",
+        "gml_id": "id14a8f1bb-720c-4dea-bec4-287b0deaee22",
+        "UUID": "DEHHATKA10000IaX",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Lattenkamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.158422324263196,
+          53.49035133012425
+        ]
+      },
+      "properties": {
+        "OBJECTID": "31",
+        "gml_id": "ide9d48f3f-b516-48df-8b45-a562fc453818",
+        "UUID": "DEHHATKA10000IbE",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Allermöhe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0559052042272,
+          53.56469512074453
+        ]
+      },
+      "properties": {
+        "OBJECTID": "32",
+        "gml_id": "ida20f73e9-6709-4177-8922-1413eda86279",
+        "UUID": "DEHHATKA10000Ib2",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Hasselbrook"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.154411813643526,
+          53.60484078776171
+        ]
+      },
+      "properties": {
+        "OBJECTID": "33",
+        "gml_id": "id9215b0e6-8eae-44ca-a48b-07a52b9ae5b7",
+        "UUID": "DEHHATKA10000Iba",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Rahlstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.979110173643779,
+          53.460864604113176
+        ]
+      },
+      "properties": {
+        "OBJECTID": "34",
+        "gml_id": "id995797f8-d7f7-4825-8c44-b96c91e05142",
+        "UUID": "DEHHATKA10000IaK",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Harburg Rathaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.055373466257699,
+          53.55562359179913
+        ]
+      },
+      "properties": {
+        "OBJECTID": "35",
+        "gml_id": "id4aa1a187-51cc-4c4f-81ee-c103f926aebe",
+        "UUID": "DEHHATKA10000IZi",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.059644419139454,
+          53.570307518518334
+        ]
+      },
+      "properties": {
+        "OBJECTID": "36",
+        "gml_id": "iddc0e694f-646a-4ff5-b05d-423e9a6c967a",
+        "UUID": "DEHHATKA10000IZz",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Wandsbeker Chaussee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.044832798207228,
+          53.58704937714821
+        ]
+      },
+      "properties": {
+        "OBJECTID": "37",
+        "gml_id": "id0b85b49d-662b-4d6c-8dcd-8479223eed21",
+        "UUID": "DEHHATKA10000IaH",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Barmbek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.185367666706146,
+          53.65294820316866
+        ]
+      },
+      "properties": {
+        "OBJECTID": "38",
+        "gml_id": "id0bf48379-4afc-48bc-aeec-f724dbac0d96",
+        "UUID": "DEHHATKA10000IZx",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Buchenkamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.797149194882058,
+          53.58113641869255
+        ]
+      },
+      "properties": {
+        "OBJECTID": "39",
+        "gml_id": "idf0d7284a-b5fe-4f71-8e26-33e639d15f4e",
+        "UUID": "DEHHATKA10000IbD",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Sülldorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.903575891730686,
+          53.61726281151894
+        ]
+      },
+      "properties": {
+        "OBJECTID": "40",
+        "gml_id": "id073d40c3-4ff1-4a0b-89ab-b1af2989033c",
+        "UUID": "DEHHATKA10000Ib3",
+        "BEG": "20100315112150",
+        "BFK": "Haltepunkt",
+        "NAM": "Hörgensweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993450932738375,
+          53.55019337161099
+        ]
+      },
+      "properties": {
+        "OBJECTID": "41",
+        "gml_id": "id20801cd0-5dd6-4ba1-b085-e7be1eeb95cf",
+        "UUID": "DEHHATKA10000Icz",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Rathaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04097183552282,
+          53.57934648513012
+        ]
+      },
+      "properties": {
+        "OBJECTID": "42",
+        "gml_id": "idd26011f6-2664-48d5-a2fa-d9eea285cb1e",
+        "UUID": "DEHHATKA10000Iay",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Dehnhaide"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.09392614620094,
+          53.65213049351815
+        ]
+      },
+      "properties": {
+        "OBJECTID": "43",
+        "gml_id": "idcd41e0b7-edb6-44d2-88cc-45f7ebbbcb21",
+        "UUID": "DEHHATKA10000IbQ",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Poppenbüttel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.082671675927404,
+          53.64123870999477
+        ]
+      },
+      "properties": {
+        "OBJECTID": "44",
+        "gml_id": "ide5ca5efa-6129-42d2-8c54-0ab45b50b608",
+        "UUID": "DEHHATKA10000IbV",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Wellingsbüttel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.860844710819766,
+          53.558163214104894
+        ]
+      },
+      "properties": {
+        "OBJECTID": "45",
+        "gml_id": "id7f966702-cd05-4852-a725-6526555f7993",
+        "UUID": "DEHHATKA10000Ic6",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Klein Flottbek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001547831076449,
+          53.67807310228784
+        ]
+      },
+      "properties": {
+        "OBJECTID": "46",
+        "gml_id": "idb473964b-164d-4a4d-9251-129a960bbfd9",
+        "UUID": "DEHHATKA10000Icf",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Ochsenzoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.947852686071702,
+          53.582739334030535
+        ]
+      },
+      "properties": {
+        "OBJECTID": "47",
+        "gml_id": "id4d568a13-71df-46d5-a0f6-c431e349ca67",
+        "UUID": "DEHHATKA10000IZn",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Lutterothstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.89297974282994,
+          53.60288770208334
+        ]
+      },
+      "properties": {
+        "OBJECTID": "48",
+        "gml_id": "id573371d4-8a27-43a0-9d4c-a637674f2aa4",
+        "UUID": "DEHHATKA10000IbK",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Elbgaustraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.017218287234392,
+          53.6489896646017
+        ]
+      },
+      "properties": {
+        "OBJECTID": "49",
+        "gml_id": "idf0295108-a63c-4f17-ac73-70b540198d98",
+        "UUID": "DEHHATKA10000Ibj",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Langenhorn Markt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.976992127663499,
+          53.55755420518109
+        ]
+      },
+      "properties": {
+        "OBJECTID": "50",
+        "gml_id": "id395f4b18-add3-4481-bb99-51abb1685cef",
+        "UUID": "DEHHATKA10000IZk",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Messehallen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.101793728901523,
+          53.598160640076905
+        ]
+      },
+      "properties": {
+        "OBJECTID": "51",
+        "gml_id": "id3a5bd64a-39b6-4cfb-91d6-668004885a6f",
+        "UUID": "DEHHATKA10000IZT",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Trabrennbahn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016708635244463,
+          53.63979082589954
+        ]
+      },
+      "properties": {
+        "OBJECTID": "52",
+        "gml_id": "id348748b9-9375-4de0-b610-5879a4c2220b",
+        "UUID": "DEHHATKA10000Iag",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Fuhlsbüttel Nord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.956194258543709,
+          53.54973532484648
+        ]
+      },
+      "properties": {
+        "OBJECTID": "53",
+        "gml_id": "idd93d9dcb-987b-4eea-a1ad-cbe4acb4678c",
+        "UUID": "DEHHATKA10000IaZ",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Reeperbahn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989593485161675,
+          53.560886374094984
+        ]
+      },
+      "properties": {
+        "OBJECTID": "54",
+        "gml_id": "id6a756176-e94e-4162-a38c-f0c7947aa587",
+        "UUID": "DEHHATKA10000Id2",
+        "BEG": "20091023090906",
+        "BFK": "Bahnhof",
+        "NAM": "Dammtor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.156047430180251,
+          53.63877871624642
+        ]
+      },
+      "properties": {
+        "OBJECTID": "55",
+        "gml_id": "idd3c7450c-0134-492c-9a7e-8f594f279d6b",
+        "UUID": "DEHHATKA10000IcZ",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Meiendorfer Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.037740872126921,
+          53.56112754417553
+        ]
+      },
+      "properties": {
+        "OBJECTID": "56",
+        "gml_id": "idae6e27ad-d928-49e2-89b7-514969d9152f",
+        "UUID": "DEHHATKA10000IZh",
+        "BEG": "20101102151513",
+        "BFK": "Haltepunkt",
+        "NAM": "Landwehr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.037301357899436,
+          53.57448134578254
+        ]
+      },
+      "properties": {
+        "OBJECTID": "57",
+        "gml_id": "idb1befbf1-edf6-458d-86dd-a734c58fb22c",
+        "UUID": "DEHHATKA10000Iat",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Hamburger Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04347051835019,
+          53.53859097153483
+        ]
+      },
+      "properties": {
+        "OBJECTID": "58",
+        "gml_id": "id088458a8-6fc5-4543-b681-a8db2add2cbb",
+        "UUID": "DEHHATKA10000IaA",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Rothenburgsort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.852130999563176,
+          53.47410317669151
+        ]
+      },
+      "properties": {
+        "OBJECTID": "59",
+        "gml_id": "id8889ed52-3e9c-4682-8c59-7e7d22866fd2",
+        "UUID": "DEHHATKA10000IcI",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Neugraben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.996098563426413,
+          53.59459866284346
+        ]
+      },
+      "properties": {
+        "OBJECTID": "60",
+        "gml_id": "id5bd00c9b-6a24-4906-a7e4-fac7638e313e",
+        "UUID": "DEHHATKA10000IaS",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Hudtwalckerstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.041981468240294,
+          53.55582074730449
+        ]
+      },
+      "properties": {
+        "OBJECTID": "61",
+        "gml_id": "id112cdf3a-06f1-4406-bd4e-c632a1e8f82e",
+        "UUID": "DEHHATKA10000Iax",
+        "BEG": "20101102151513",
+        "BFK": "Haltepunkt",
+        "NAM": "Burgstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.962305436336143,
+          53.569564570876736
+        ]
+      },
+      "properties": {
+        "OBJECTID": "62",
+        "gml_id": "id93854b21-906b-4097-b6a7-009787900520",
+        "UUID": "DEHHATKA10000Icw",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Christuskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.068011487595848,
+          53.581790195235385
+        ]
+      },
+      "properties": {
+        "OBJECTID": "63",
+        "gml_id": "id2f3d0776-f0b1-40df-a71e-78131a5971fd",
+        "UUID": "DEHHATKA10000Iao",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Straßburger Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981767595070083,
+          53.54423558902702
+        ]
+      },
+      "properties": {
+        "OBJECTID": "64",
+        "gml_id": "id26e36939-d5e2-4464-a6d7-1e4ccd65609f",
+        "UUID": "DEHHATKA10000IZY",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Baumwall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.045000374431872,
+          53.58736926968376
+        ]
+      },
+      "properties": {
+        "OBJECTID": "65",
+        "gml_id": "id9a695ecf-d907-44e9-b747-27dd678e0bf2",
+        "UUID": "DEHHATKA10000Ia9",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Barmbek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989122759867938,
+          53.55901067292981
+        ]
+      },
+      "properties": {
+        "OBJECTID": "66",
+        "gml_id": "id90393f1a-c966-4fd0-ba74-3c5657106308",
+        "UUID": "DEHHATKA10000IbX",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Stephansplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.91825303216993,
+          53.58977224453451
+        ]
+      },
+      "properties": {
+        "OBJECTID": "67",
+        "gml_id": "idf58fc2fe-e340-40bb-8263-c8bea2a32383",
+        "UUID": "DEHHATKA10000Iau",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Stellingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031738428213123,
+          53.62044848331338
+        ]
+      },
+      "properties": {
+        "OBJECTID": "68",
+        "gml_id": "id7b290144-1763-4a11-82d9-19c46e83fdaa",
+        "UUID": "DEHHATKA10000IbG",
+        "BEG": "20100730162652",
+        "BFK": "Haltestelle",
+        "NAM": "Ohlsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75673730593124,
+          53.5832260920218
+        ]
+      },
+      "properties": {
+        "OBJECTID": "69",
+        "gml_id": "id8978edc9-57c7-4f67-b7eb-d4f41d801abc",
+        "UUID": "DEHHATKA10000Icm",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Rissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067397188163543,
+          53.57179665739166
+        ]
+      },
+      "properties": {
+        "OBJECTID": "70",
+        "gml_id": "ide2800bf4-6a88-4d02-a643-2c3555317ff0",
+        "UUID": "DEHHATKA10000Iaj",
+        "BEG": "20101102151513",
+        "BFK": "Haltepunkt",
+        "NAM": "Wandsbek Markt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98902696711932,
+          53.57294786717637
+        ]
+      },
+      "properties": {
+        "OBJECTID": "71",
+        "gml_id": "idf21c4661-246a-4564-8159-1464f1fe5c9e",
+        "UUID": "DEHHATKA10000Ibm",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Hallerstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.123217118309828,
+          53.586498950809414
+        ]
+      },
+      "properties": {
+        "OBJECTID": "72",
+        "gml_id": "ide4becda9-d2b6-4fd2-970e-db3f5d2a33ab",
+        "UUID": "DEHHATKA10000IaG",
+        "BEG": "20100818081137",
+        "BFK": "Haltepunkt",
+        "NAM": "Tonndorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.027400396332473,
+          53.56935263738871
+        ]
+      },
+      "properties": {
+        "OBJECTID": "73",
+        "gml_id": "id3f7c8579-66f7-4c28-9818-fdc88a4fd5c9",
+        "UUID": "DEHHATKA10000Ibk",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Mundsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057447042936431,
+          53.57613071900308
+        ]
+      },
+      "properties": {
+        "OBJECTID": "74",
+        "gml_id": "id144b8dc2-5059-4d1f-a440-43ac66c04b1d",
+        "UUID": "DEHHATKA10000Ia2",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Friedrichsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.949820777179902,
+          53.62905913490454
+        ]
+      },
+      "properties": {
+        "OBJECTID": "75",
+        "gml_id": "id94f6dd18-4578-4c02-bb23-129da72e37c8",
+        "UUID": "DEHHATKA10000IcP",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Joachim-Mähl-Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.023735698469647,
+          53.54650353268049
+        ]
+      },
+      "properties": {
+        "OBJECTID": "76",
+        "gml_id": "id4822fdc9-ac3a-449b-a287-fb0dfcdfa3e0",
+        "UUID": "DEHHATKA10000Ibe",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Hammerbrook"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.066129280818716,
+          53.55423062820272
+        ]
+      },
+      "properties": {
+        "OBJECTID": "77",
+        "gml_id": "id94c6ebdc-7e33-42d5-b899-222e99ab1250",
+        "UUID": "DEHHATKA10000Ic9",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Rauhes Haus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00490181425889,
+          53.55403146887637
+        ]
+      },
+      "properties": {
+        "OBJECTID": "78",
+        "gml_id": "idb127da88-8bdd-4f33-a84c-9e35f804ad41",
+        "UUID": "DEHHATKA10000Ic8",
+        "BEG": "20091023090906",
+        "BFK": "Bahnhof",
+        "NAM": "Hauptbahnhof Nord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.131760318545687,
+          53.49780883490362
+        ]
+      },
+      "properties": {
+        "OBJECTID": "79",
+        "gml_id": "idebc3f362-abd5-41e8-b51b-46c8433e877c",
+        "UUID": "DEHHATKA10000IcD",
+        "BEG": "20091221081328",
+        "BFK": "Haltepunkt",
+        "NAM": "Mittlerer Landweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970022754245846,
+          53.56768359531299
+        ]
+      },
+      "properties": {
+        "OBJECTID": "80",
+        "gml_id": "id04ec4145-ab6e-4ba8-9cc2-edf5576b14c6",
+        "UUID": "DEHHATKA10000IZf",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Schlump"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.139615001438749,
+          53.6268948003377
+        ]
+      },
+      "properties": {
+        "OBJECTID": "81",
+        "gml_id": "idf4cd4535-70f3-414d-9e70-92d56851a2df",
+        "UUID": "DEHHATKA10000IcY",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Berne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031313280741982,
+          53.6204858110095
+        ]
+      },
+      "properties": {
+        "OBJECTID": "82",
+        "gml_id": "ide2c95e11-2b5d-49f7-822f-f233c9579ed3",
+        "UUID": "DEHHATKA10000Icj",
+        "BEG": "20100730162652",
+        "BFK": "Haltestelle",
+        "NAM": "Ohlsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.045977683070522,
+          53.56752111841272
+        ]
+      },
+      "properties": {
+        "OBJECTID": "83",
+        "gml_id": "id358af8a7-6927-4bf2-9c5d-2bcb3dd3233e",
+        "UUID": "DEHHATKA10000Id4",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Ritterstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986952078001929,
+          53.54835940204149
+        ]
+      },
+      "properties": {
+        "OBJECTID": "84",
+        "gml_id": "ida1685671-a4dc-47ab-8e88-1cb5ca19ef43",
+        "UUID": "DEHHATKA10000Ibx",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Rödingsmarkt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.930834636613334,
+          53.57968234157966
+        ]
+      },
+      "properties": {
+        "OBJECTID": "85",
+        "gml_id": "id677cfbfc-3602-46c1-bb5d-c1e58f4785d6",
+        "UUID": "DEHHATKA10000IcX",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Langenfelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026223031083425,
+          53.632696957523414
+        ]
+      },
+      "properties": {
+        "OBJECTID": "86",
+        "gml_id": "id57a2b405-a683-4a61-947f-cc67704cc1e2",
+        "UUID": "DEHHATKA10000Ibd",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Fuhlsbüttel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.064535058650307,
+          53.586512449437436
+        ]
+      },
+      "properties": {
+        "OBJECTID": "87",
+        "gml_id": "idf1da1189-9f5a-41fe-a166-5d3d0bab42ad",
+        "UUID": "DEHHATKA10000Iap",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Alter Teichweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.035284675120907,
+          53.56461568234298
+        ]
+      },
+      "properties": {
+        "OBJECTID": "88",
+        "gml_id": "id4ddae849-84c8-4984-a868-8fa929017f53",
+        "UUID": "DEHHATKA10000IZj",
+        "BEG": "20100602080146",
+        "BFK": "Haltepunkt",
+        "NAM": "Wartenau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0320063624247,
+          53.58911733146662
+        ]
+      },
+      "properties": {
+        "OBJECTID": "89",
+        "gml_id": "id562e1a1f-de48-441e-8f56-853648db5922",
+        "UUID": "DEHHATKA10000IcK",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Saarlandstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952662738616704,
+          53.571640172366926
+        ]
+      },
+      "properties": {
+        "OBJECTID": "90",
+        "gml_id": "idc3179e30-c9fe-4a31-b10a-d0d889fa1f9e",
+        "UUID": "DEHHATKA10000Ib6",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Emilienstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00618958065972,
+          53.54910563628035
+        ]
+      },
+      "properties": {
+        "OBJECTID": "91",
+        "gml_id": "id6d8ef106-cc7a-455e-a194-ba4a3cbaf342",
+        "UUID": "DEHHATKA10000Ibl",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Steinstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.077196000502928,
+          53.56989995717609
+        ]
+      },
+      "properties": {
+        "OBJECTID": "92",
+        "gml_id": "id9b4898dc-50aa-4ec8-9110-7c52fb53df8b",
+        "UUID": "DEHHATKA10000Ibg",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Wandsbek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952751801187235,
+          53.63453215737704
+        ]
+      },
+      "properties": {
+        "OBJECTID": "93",
+        "gml_id": "idf2aa1464-1e63-43e0-82d2-656b6a2c6deb",
+        "UUID": "DEHHATKA10000Ibw",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Schippelsweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95165357481978,
+          53.57630437812906
+        ]
+      },
+      "properties": {
+        "OBJECTID": "94",
+        "gml_id": "id007e88c1-4fdc-46f0-a980-95c64a161096",
+        "UUID": "DEHHATKA10000Ic5",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Osterstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.910976220227777,
+          53.56002501676252
+        ]
+      },
+      "properties": {
+        "OBJECTID": "95",
+        "gml_id": "id9e382771-8d6e-49f1-b82a-60c6cc2bcdb2",
+        "UUID": "DEHHATKA10000Ic3",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Bahrenfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.990976353506655,
+          53.58882787494011
+        ]
+      },
+      "properties": {
+        "OBJECTID": "96",
+        "gml_id": "id09e90ea9-957a-4805-90ea-192e25c75376",
+        "UUID": "DEHHATKA10000Ia0",
+        "BEG": "20091023090906",
+        "BFK": "Haltestelle",
+        "NAM": "Kellinghusenstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.181025304047491,
+          53.487981496076934
+        ]
+      },
+      "properties": {
+        "OBJECTID": "97",
+        "gml_id": "idffb19a22-1aa5-4eed-a039-43a40eb903f7",
+        "UUID": "DEHHATKA10000IaE",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Nettelnburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009885531809596,
+          53.552146835761256
+        ]
+      },
+      "properties": {
+        "OBJECTID": "98",
+        "gml_id": "id5c2651ee-65b6-4d89-b6fb-f549a155c813",
+        "UUID": "DEHHATKA10000Ibo",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Hauptbahnhof Süd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001727597439539,
+          53.5512472386361
+        ]
+      },
+      "properties": {
+        "OBJECTID": "99",
+        "gml_id": "id5b7a84d7-05c3-48d2-bfb6-67e4b7fe8620",
+        "UUID": "DEHHATKA10000IdA",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Mönckebergstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.942583783062691,
+          53.54723315647389
+        ]
+      },
+      "properties": {
+        "OBJECTID": "100",
+        "gml_id": "id1adbae92-6310-4cb2-9f7e-421315115a92",
+        "UUID": "DEHHATKA10000IbO",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Königstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.950117039763981,
+          53.64082568362177
+        ]
+      },
+      "properties": {
+        "OBJECTID": "101",
+        "gml_id": "idb9b4185b-3739-47c2-9a19-fc15046402a4",
+        "UUID": "DEHHATKA10000IbU",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Niendorf-Nord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16316222646936,
+          53.65062597521771
+        ]
+      },
+      "properties": {
+        "OBJECTID": "102",
+        "gml_id": "id341b3ea6-2762-4c25-8234-ab19aef8bdf9",
+        "UUID": "DEHHATKA10000IbB",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Volksdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.945134968825187,
+          53.60364904061376
+        ]
+      },
+      "properties": {
+        "OBJECTID": "103",
+        "gml_id": "id89cc001d-617c-45c1-8c8b-2391fcd9cdeb",
+        "UUID": "DEHHATKA10000IcF",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Hagendeel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.875840640895472,
+          53.47307600113057
+        ]
+      },
+      "properties": {
+        "OBJECTID": "104",
+        "gml_id": "idf25847b4-add3-48e0-a7f4-b150dfa7e971",
+        "UUID": "DEHHATKA10000IbT",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Neuwiedenthal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908564240994991,
+          53.64773532894749
+        ]
+      },
+      "properties": {
+        "OBJECTID": "105",
+        "gml_id": "id0409c3a9-8162-4632-9809-c35e25cd47e7",
+        "UUID": "DEHHATKA10000Iaz",
+        "BEG": "20091023090906",
+        "BFK": "Haltepunkt",
+        "NAM": "Burgwedel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99383775179129,
+          53.55223559374908
+        ]
+      },
+      "properties": {
+        "OBJECTID": "106",
+        "gml_id": "id68496d0c-6305-4718-a38a-bd9fc12e182b",
+        "UUID": "DEHHATKA10000Iai",
+        "BEG": "20121203101308",
+        "BFK": "Haltestelle",
+        "NAM": "Jungfernstieg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993189976639918,
+          53.553514561631744
+        ]
+      },
+      "properties": {
+        "OBJECTID": "107",
+        "gml_id": "id09091e00-4e1d-4674-8cea-30639357502e",
+        "UUID": "DEHHATKA10000Icy",
+        "BEG": "20121203101308",
+        "BFK": "Haltestelle",
+        "NAM": "Jungfernstieg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970105080350075,
+          53.55044893256017
+        ]
+      },
+      "properties": {
+        "OBJECTID": "108",
+        "gml_id": "idc9a961b2-573b-4435-8217-ba2b448de526",
+        "UUID": "DEHHATKA10000IZW",
+        "BEG": "20121203101308",
+        "BFK": "Haltepunkt",
+        "NAM": "St. Pauli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.006725792239333,
+          53.49784445626168
+        ]
+      },
+      "properties": {
+        "OBJECTID": "109",
+        "gml_id": "id6fc66dfa-2eb0-4517-a9c3-47c1b6699a55",
+        "UUID": "DEHHATKA10000IaD",
+        "BEG": "20130415141455",
+        "BFK": "Haltepunkt",
+        "NAM": "Wilhelmsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991886779877444,
+          53.45682125490996
+        ]
+      },
+      "properties": {
+        "OBJECTID": "110",
+        "gml_id": "ideac8aa05-ac32-4c48-a697-32be50e6169d",
+        "UUID": "DEHHATKA10000Ic2",
+        "BEG": "20130418141435",
+        "BFK": "Haltestelle",
+        "NAM": "Harburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016632632381535,
+          53.67467435568719
+        ]
+      },
+      "properties": {
+        "OBJECTID": "111",
+        "gml_id": "idbe6c1547-3840-4c4c-abc3-1888302bbfe6",
+        "UUID": "DEHHATKA10000Icg",
+        "BEG": "20111219113333",
+        "BFK": "Haltepunkt",
+        "NAM": "Kiwittsmoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.017645670612277,
+          53.661107301030434
+        ]
+      },
+      "properties": {
+        "OBJECTID": "112",
+        "gml_id": "id5f476bd4-3d01-45dc-bd18-4d951c71a291",
+        "UUID": "DEHHATKA10000IcH",
+        "BEG": "20111219113333",
+        "BFK": "Haltepunkt",
+        "NAM": "Langenhorn Nord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.965783595436962,
+          53.56376510578345
+        ]
+      },
+      "properties": {
+        "OBJECTID": "113",
+        "gml_id": "id1292f960-1dd0-4e0f-9d7f-22608bff75cd",
+        "UUID": "DEHHATKA10000IbY",
+        "BEG": "20120906090321",
+        "BFK": "Haltestelle",
+        "NAM": "Sternschanze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999168608012157,
+          53.54046410592447
+        ]
+      },
+      "properties": {
+        "OBJECTID": "114",
+        "gml_id": "id1ba7406b-bfea-4740-88a6-54fd340ebc62",
+        "UUID": "DEHHATKA10000cF1",
+        "BEG": "20121128103748",
+        "BFK": "Haltepunkt",
+        "NAM": "Überseequartier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009477287937141,
+          53.54040169921657
+        ]
+      },
+      "properties": {
+        "OBJECTID": "115",
+        "gml_id": "id1831a774-6160-41cc-981c-58fcdce16aa9",
+        "UUID": "DEHHATKA10000cF4",
+        "BEG": "20121128103748",
+        "BFK": "Haltepunkt",
+        "NAM": "HafenCity Universität"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970806975404047,
+          53.54627911173414
+        ]
+      },
+      "properties": {
+        "OBJECTID": "116",
+        "gml_id": "idee93f882-dba1-4efd-ae6a-9dc8e07a5967",
+        "UUID": "DEHHATKA10000Ibc",
+        "BEG": "20130207133208",
+        "BFK": "Haltestelle",
+        "NAM": "Landungsbrücken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14946472939012,
+          53.52391576923012
+        ]
+      },
+      "properties": {
+        "OBJECTID": "117",
+        "gml_id": "idb9625241-399a-42d6-aa5c-6b8612b8b541",
+        "UUID": "DEHHATKA10000Vvb",
+        "BEG": "20110223122457",
+        "BFK": "Haltepunkt",
+        "NAM": "Kandinskyallee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.09529951396352,
+          53.54748303015522
+        ]
+      },
+      "properties": {
+        "OBJECTID": "118",
+        "gml_id": "ida8d4eb9a-20be-40ed-b4f8-1d91b663121d",
+        "UUID": "DEHHATKA10000IcB",
+        "BEG": "20110223122457",
+        "BFK": "Haltepunkt",
+        "NAM": "Legienstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.117796944396888,
+          53.607223485097336
+        ]
+      },
+      "properties": {
+        "OBJECTID": "119",
+        "gml_id": "idff7e879b-691d-4281-8eb8-82bce4011564",
+        "UUID": "DEHHATKA10000YvM",
+        "BEG": "20111017141149",
+        "BFK": "Haltepunkt",
+        "NAM": "Farmsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.905977799052513,
+          53.596362755678946
+        ]
+      },
+      "properties": {
+        "OBJECTID": "120",
+        "gml_id": "id1c0c03ef-4791-4319-b2b2-a9774bda7741",
+        "UUID": "DEHHATKA10000IaC",
+        "BEG": "20120216071353",
+        "BFK": "Haltestelle",
+        "NAM": "Eidelstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.901490944177059,
+          53.61044723982926
+        ]
+      },
+      "properties": {
+        "OBJECTID": "121",
+        "gml_id": "id8c203a24-5898-4e67-a8a2-24d2bc9df543",
+        "UUID": "DEHHATKA10000IaU",
+        "BEG": "20120216071353",
+        "BFK": "Haltepunkt",
+        "NAM": "Eidelstedt Zentrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.035412540420129,
+          53.59780136295255
+        ]
+      },
+      "properties": {
+        "OBJECTID": "122",
+        "gml_id": "ida2a99544-3387-430a-96c2-0a262a76d675",
+        "UUID": "DEHHATKA10000IZy",
+        "BEG": "20120217111044",
+        "BFK": "Haltepunkt",
+        "NAM": "Alte Wöhr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067790145404793,
+          53.63552220996536
+        ]
+      },
+      "properties": {
+        "OBJECTID": "123",
+        "gml_id": "id487d5926-fb6a-4067-849d-c5048a996dd0",
+        "UUID": "DEHHATKA10000Id9",
+        "BEG": "20120626112110",
+        "BFK": "Haltepunkt",
+        "NAM": "Hoheneichen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03337668579678,
+          53.627871023598956
+        ]
+      },
+      "properties": {
+        "OBJECTID": "124",
+        "gml_id": "id7aa2c847-5d2e-4370-89b1-2b3927aaa337",
+        "UUID": "DEHHATKA10000IZw",
+        "BEG": "20120626112110",
+        "BFK": "Haltepunkt",
+        "NAM": "Klein Borstel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.054291837163419,
+          53.63247016060095
+        ]
+      },
+      "properties": {
+        "OBJECTID": "125",
+        "gml_id": "id024f3278-cf8e-4495-83ce-7304604ca11c",
+        "UUID": "DEHHATKA10000IaF",
+        "BEG": "20120626112110",
+        "BFK": "Haltepunkt",
+        "NAM": "Kornweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02566048449297,
+          53.552652069040136
+        ]
+      },
+      "properties": {
+        "OBJECTID": "126",
+        "gml_id": "id121d2e48-3e6e-4db3-abc7-2cac32e68c4e",
+        "UUID": "DEHHATKA10000bIm",
+        "BEG": "20120712154906",
+        "BFK": "Haltestelle",
+        "NAM": "Berliner Tor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019212136635028,
+          53.556692067080135
+        ]
+      },
+      "properties": {
+        "OBJECTID": "127",
+        "gml_id": "id75cb416a-b094-4d97-bc95-80638e670e5c",
+        "UUID": "DEHHATKA10000IbP",
+        "BEG": "20120712154906",
+        "BFK": "Haltepunkt",
+        "NAM": "Lohmühlenstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.024486076497833,
+          53.552888748253345
+        ]
+      },
+      "properties": {
+        "OBJECTID": "128",
+        "gml_id": "id120bb4f1-f9b4-4535-b8d7-3421784a209d",
+        "UUID": "DEHHATKA10000Ibv",
+        "BEG": "20120712154906",
+        "BFK": "Haltestelle",
+        "NAM": "Berliner Tor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934306415878998,
+          53.568188124529826
+        ]
+      },
+      "properties": {
+        "OBJECTID": "129",
+        "gml_id": "id1e5eb2d2-3cad-4c2e-be4b-88f8ca3e3f9f",
+        "UUID": "DEHHATKA10000Ibp",
+        "BEG": "20120813154048",
+        "BFK": "Haltepunkt",
+        "NAM": "Diebsteich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934632349816907,
+          53.552238197572905
+        ]
+      },
+      "properties": {
+        "OBJECTID": "130",
+        "gml_id": "ida9b04379-86ad-468c-b779-00ba6e5f8ccb",
+        "UUID": "DEHHATKA10000IcM",
+        "BEG": "20120813154048",
+        "BFK": "Bahnhof",
+        "NAM": "Altona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.150024438202644,
+          53.52802368333635
+        ]
+      },
+      "properties": {
+        "OBJECTID": "131",
+        "gml_id": "id20ed554c-6526-4ec4-a73d-892e983e7f07",
+        "UUID": "DEHHATKA10000IZt",
+        "BEG": "20130408122259",
+        "BFK": "Haltepunkt",
+        "NAM": "Mümmelmannsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.107437679439917,
+          53.54239221775217
+        ]
+      },
+      "properties": {
+        "OBJECTID": "132",
+        "gml_id": "id17d76dc4-64c3-403c-93e9-b12a4b6fcd32",
+        "UUID": "DEHHATKA10000IZo",
+        "BEG": "20110616103756",
+        "BFK": "Haltepunkt",
+        "NAM": "Billstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.886494242448512,
+          53.55921201202001
+        ]
+      },
+      "properties": {
+        "OBJECTID": "133",
+        "gml_id": "id176f3fc1-83e2-4331-92db-4909263ee4b8",
+        "UUID": "DEHHATKA10000Ics",
+        "BEG": "20110331104516",
+        "BFK": "Haltepunkt",
+        "NAM": "Othmarschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.123842312509895,
+          53.53854386174727
+        ]
+      },
+      "properties": {
+        "OBJECTID": "134",
+        "gml_id": "id6d202b35-4b05-4514-a22b-fbf785d6bba6",
+        "UUID": "DEHHATKA10000IbJ",
+        "BEG": "20110616103756",
+        "BFK": "Haltepunkt",
+        "NAM": "Merkenstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.096090714133139,
+          53.51603448914312
+        ]
+      },
+      "properties": {
+        "OBJECTID": "135",
+        "gml_id": "idcf37b353-510a-4e54-8717-1e53e36c3fa9",
+        "UUID": "DEHHATKA10000Iak",
+        "BEG": "20110616103756",
+        "BFK": "Haltepunkt",
+        "NAM": "Billwerder-Moorfleet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13925906826194,
+          53.54104150614138
+        ]
+      },
+      "properties": {
+        "OBJECTID": "136",
+        "gml_id": "id24754eb1-d9be-48f3-97d3-093b06f71946",
+        "UUID": "DEHHATKA10000IbI",
+        "BEG": "20110616103756",
+        "BFK": "Haltepunkt",
+        "NAM": "Steinfurther Allee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06528917367005,
+          53.53136331476089
+        ]
+      },
+      "properties": {
+        "OBJECTID": "137",
+        "gml_id": "id716efee9-b8aa-483d-b572-6a1b184e89c3",
+        "UUID": "DEHHATKA10000Ibf",
+        "BEG": "20120223094809",
+        "BFK": "Haltepunkt",
+        "NAM": "Tiefstack"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.906550051939638,
+          53.63425651456359
+        ]
+      },
+      "properties": {
+        "OBJECTID": "138",
+        "gml_id": "id5921842e-feed-45cd-b798-154ae416e0a7",
+        "UUID": "DEHHATKA10000IZs",
+        "BEG": "20120312152209",
+        "BFK": "Haltepunkt",
+        "NAM": "Schnelsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.21233597547766,
+          53.48337904442219
+        ]
+      },
+      "properties": {
+        "OBJECTID": "139",
+        "gml_id": "id041448ae-70e9-48e6-b924-f83b2f630b67",
+        "UUID": "DEHHATKA10000Ia3",
+        "BEG": "20120503074117",
+        "BFK": "Haltepunkt",
+        "NAM": "Bf. Bergedorf-Süd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.205894287729269,
+          53.48976904478592
+        ]
+      },
+      "properties": {
+        "OBJECTID": "140",
+        "gml_id": "idb5d45285-e1ae-407e-9565-f82025a78178",
+        "UUID": "DEHHATKA10000IaJ",
+        "BEG": "20120503074117",
+        "BFK": "Haltestelle",
+        "NAM": "Bergedorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.814977218401186,
+          53.564458053542374
+        ]
+      },
+      "properties": {
+        "OBJECTID": "141",
+        "gml_id": "id7c12cd46-0b2b-452d-b06e-f72028110b68",
+        "UUID": "DEHHATKA10000Ice",
+        "BEG": "20121121131516",
+        "BFK": "Haltepunkt",
+        "NAM": "Blankenese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.841968147649844,
+          53.5614074779355
+        ]
+      },
+      "properties": {
+        "OBJECTID": "142",
+        "gml_id": "id0287fbc8-899b-424d-a5ca-cb19a1f104d9",
+        "UUID": "DEHHATKA10000IcG",
+        "BEG": "20121121131516",
+        "BFK": "Haltepunkt",
+        "NAM": "Hochkamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.815232563622372,
+          53.57608076221648
+        ]
+      },
+      "properties": {
+        "OBJECTID": "143",
+        "gml_id": "idf34bf5a6-4510-4df2-8bba-49cdf259a728",
+        "UUID": "DEHHATKA10000IZu",
+        "BEG": "20121121131516",
+        "BFK": "Haltepunkt",
+        "NAM": "Iserbrook"
+      }
+    }
+  ]
+}

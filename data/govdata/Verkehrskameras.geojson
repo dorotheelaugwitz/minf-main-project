@@ -1,0 +1,328 @@
+{
+  "type": "FeatureCollection",
+  "name": "verkehr_kameras",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_4",
+        "lage": "Hafen Finkenwerder Knoten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.911226805493246, 53.513524523774656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_7",
+        "lage": "Hafen Neuhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.969781020089496, 53.516624819528481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_5",
+        "lage": "Hafen Waltershofer Knoten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.924637835103832, 53.521614454957167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_8",
+        "lage": "A7 AS Stellingen",
+        "anbieter": "IKK Classic",
+        "anbieter_url": "http:\/\/www.ikk-classic.de\/",
+        "anmerkung": "Blickrichtung Süden (Elbtunnel)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.924668898748143, 53.595483363563808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_12",
+        "lage": "A7 AS Heimfeld",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/BAB7-AS_Heimfeld.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/BAB7-AS_Heimfeld.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/BAB7-AS_Heimfeld.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.920659992864962, 53.47051999831794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_19",
+        "lage": "Altenwerder Damm \/ Köhlbrandbrücke",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/Altenwerder_Damm-Koehlbrandbruecke.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/Altenwerder_Damm-Koehlbrandbruecke.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/Altenwerder_Damm-Koehlbrandbruecke.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.924140185944516, 53.520921225054742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_1",
+        "lage": "A1 AK Hamburg-Süd",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/BAB1-AK_Sued.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/BAB1-AK_Sued.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/BAB1-AK_Sued.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.038340748424901, 53.502930564075129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_2",
+        "lage": "A1 AS Hamburg-Billstedt",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/BAB1-AS_Billstedt.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/BAB1-AS_Billstedt.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/BAB1-AS_Billstedt.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.133311437259945, 53.527307412654878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_3",
+        "lage": "A1 AK Hamburg-Ost",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/BAB1-AK_Ost.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/BAB1-AK_Ost.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/BAB1-AK_Ost.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.159498793625938, 53.562935107429659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_6",
+        "lage": "Hafen Köhlbrandbrücke",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/Koehlbrandbruecke.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/Koehlbrandbruecke.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/Koehlbrandbruecke.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.938222953836856, 53.521806173591784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_9",
+        "lage": "A7 AS Schnelsen",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/BAB7-AS_Schnelsen.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/BAB7-AS_Schnelsen.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/BAB7-AS_Schnelsen.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.924130006105562, 53.637999997242389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_10",
+        "lage": "A7 AS Volkspark",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/BAB7-AS_Volkspark.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/BAB7-AS_Volkspark.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/BAB7-AS_Volkspark.sdp_160p50\/playlist.m3u8 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.915700006710697, 53.58243999448915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_11",
+        "lage": "A7 AS Bahrenfeld",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/BAB7-AS_Bahrenfeld.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/BAB7-AS_Bahrenfeld.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/BAB7-AS_Bahrenfeld.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.899570000975954, 53.565079996325217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_13",
+        "lage": "Ankelmannsplatz \/ Wallstraße",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/Ankelmannsplatz.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/Ankelmannsplatz.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/Ankelmannsplatz.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.025930004439081, 53.551629998092075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_14",
+        "lage": "Ludwig-Erhard-Straße",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/Ludwig-Erhard-Str.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/Ludwig-Erhard-Str.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/Ludwig-Erhard-Str.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.978200002541266, 53.549399997142295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_15",
+        "lage": "A7 AD Hamburg-Nordwest",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/BAB7-AD_Nordwest.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/BAB7-AD_Nordwest.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/BAB7-AD_Nordwest.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.911429997014229, 53.616769995800652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_16",
+        "lage": "Kieler Straße \/ Sportplatzring",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/Kieler_Str_Sportplatzring.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/Kieler_Str_Sportplatzring.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/Kieler_Str_Sportplatzring.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.928729998839502, 53.592290001834286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_17",
+        "lage": "Wilhelmsburger Reichsstraße",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/Wilhelmsburger_Reichsstr.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/Wilhelmsburger_Reichsstr.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/Wilhelmsburger_Reichsstr.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.997770002951418, 53.499119996099139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_18",
+        "lage": "Willy-Brandt-Straße",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/Willy-Brandt-Str.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/Willy-Brandt-Str.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/Willy-Brandt-Str.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.993729998319141, 53.547560001017075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_20",
+        "lage": "BAB 255 Elbbrücken",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/BAB255-Elbbruecken.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/BAB255-Elbbruecken.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/BAB255-Elbbruecken.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.024126266721757, 53.530133664499061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_21",
+        "lage": "Finkenwerder Ring",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/Finkenwerder_Ring.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/Finkenwerder_Ring.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/Finkenwerder_Ring.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.911758639148218, 53.513767126579175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "APP_VERKEHR_KAMERAS_22",
+        "lage": "Rossdamm \/ Köhlbrandbrücke",
+        "anmerkung": "Jede Kamera kann mehrere Blickrichtungen einnehmen. Die Kameras werden von der Verkehrsleitzentrale der Polizei Hamburg gesteuert.",
+        "video_stream_internet": "rtmp:\/\/141.91.184.27:1935\/live\/Rossdamm-Koehlbrandbruecke.sdp_240p50",
+        "video_stream_intranet": "rtmp:\/\/10.61.35.51:1935\/live\/Rossdamm-Koehlbrandbruecke.sdp_240p50",
+        "video_stream_mobil": "http:\/\/141.91.184.27:1935\/live\/Rossdamm-Koehlbrandbruecke.sdp_160p50\/playlist.m3u8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.969312382474852, 53.516705799833801]
+      }
+    }
+  ]
+}

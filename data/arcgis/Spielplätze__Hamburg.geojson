@@ -1,0 +1,1912 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.193409999577229,
+          53.479185000209874
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz am Katendeich",
+        "OBJECTID": "1",
+        "beschreibu": "Welcher Junge trtumt nicht davon, einmal gegen einen Dinosaurier zu k畴mpfen? Auf dem Spielplatz am Katendeich in Nettelnburg haben die Kids die M敳glichkeit dazu.",
+        "link": "http://www.hamburg.de/spielplaetze/3909770/katendeich.html",
+        "bild": "http://www.hamburg.de/contentblob/3907660/data/07_Katendeich_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.77903299990461,
+          53.578678000038174
+        ]
+      },
+      "properties": {
+        "name": "Rissener Kuhle",
+        "OBJECTID": "2",
+        "beschreibu": "Die Rissener Kuhle derfte den meisten Anwohnern des Stadtteils wohl auch unter dem Begriff Rissener Kiesgrube bekannt sein. Aus dem einstigen Kiesabbaugebiet wurde eine weitl䡈ufiger Spiel- und Freizeitflhche  mit Grill- und Picknickmiglichkeiten.",
+        "link": "http://www.hamburg.de/spielplaetze/3909902/rissener-kuhle.html",
+        "bild": "http://www.hamburg.de/contentblob/3908276/data/12_Rissener-Kuhle_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90280599959958,
+          53.58064000005118
+        ]
+      },
+      "properties": {
+        "name": "Waldspielplatz im Altonaer Volkspark",
+        "OBJECTID": "3",
+        "beschreibu": "Spielen und Klettern, Seilbahn, Planschbecken und Wassermatsch-Anlage. Bahrenfeld, Nansenstrake. S3, S21 und AKN: Stellingen,  Bus 180:  Am Volkspark",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.88665600028509,
+          53.58984799975409
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Vorhornweg im Volkspark Altona",
+        "OBJECTID": "4",
+        "beschreibu": "Spielplatze mit Angeboten zum Klettern gibt es in Hamburg sicher viele, doch auf nur wenigen kommen Kletterfans so auf ihre Kosten wie auf dem Spielplatz am Vorhornweg im Volkspark Altona.",
+        "link": "http://www.hamburg.de/spielplaetze/3910686/vorhornweg.html",
+        "bild": "http://www.hamburg.de/contentblob/3909284/data/18_Vorhornweg_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.89650499970278,
+          53.577676000082604
+        ]
+      },
+      "properties": {
+        "name": "Spielwiese im Altonaer Volkspark",
+        "OBJECTID": "5",
+        "beschreibu": "Groee, zentrale Wiese mit Spielm",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.76742000032308,
+          53.59964300014085
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Forst Klmvensteen",
+        "OBJECTID": "6",
+        "beschreibu": "Spielangebote for Familien und betreute Gruppen. Rissen, Klrvensteenweg/Feldweg 83. S1: Rissen, Bus 1: Kltvensteenweg. Parkplatz Schnaakenmoor",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.852870000428291,
+          53.588861999826825
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Bornheide",
+        "OBJECTID": "7",
+        "beschreibu": "Vielfpltige Spielangebote und Skatebahn. Osdorf, Bornheide. Bus 3, 21, 37 und 602: Achtern Born",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.845895999788622,
+          53.59371200019138
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Bornpark",
+        "OBJECTID": "8",
+        "beschreibu": "Spiel- und Freizeitflbche an der Osdorfer Feldmark.   Rodelbahn mit Turm als Ausguck, BMX-Bahn, viele Spielgertte und Grillplatze. Osdorf, Bottcherkamp. Bus 21, 3,  37: B ttcherkamp",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.873698999765963,
+          53.593070999804134
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Lrttkamp\n",
+        "OBJECTID": "9",
+        "beschreibu": "Fpr alle Altersgruppen und M glichkeit zum Bolzen. Lurup, Eckhoffplatz (Lurup Center). Bus 186:  Eckhoffplatz",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.853605000197133,
+          53.5743849999021
+        ]
+      },
+      "properties": {
+        "name": "Hans-Christian Andersen Park",
+        "OBJECTID": "10",
+        "beschreibu": "Welches Kind liebt sie nicht: die Geschichten des dLnischen Dichters Hans-Christian Andersen? W hrend sich seine Murchenwelten bisher nur in der Fantasie der Kinder abspielten, werden sie nun zum Leben erweckt.",
+        "link": "http://www.hamburg.de/spielplaetze/3909742/hans-christian-andersen-park.html",
+        "bild": "http://www.hamburg.de/contentblob/3907456/data/04_Hans-Christian-Andersen-Park_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.89907899997856,
+          53.551624000241475
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Holmbrook im Grothpark",
+        "OBJECTID": "11",
+        "beschreibu": "Fpr alle Altersgruppen mit Kletterschiff, Wassermatschbereich und grorem Karussell. Othmarschen, Holmbrook. Bus 15: Ernst-August-Stra e",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.913229000025954,
+          53.566627999929786
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Langbehnstrame",
+        "OBJECTID": "12",
+        "beschreibu": "Spielangebote fbr alle Altersgruppen mit Bolzplatz und Tischtennis. Bahrenfeld, Langbehnstrahe. Bus 2, 3 und 602:  von Sauer StraSe",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.920945000107144,
+          53.54717000022771
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Fischerspark",
+        "OBJECTID": "13",
+        "beschreibu": "Spielangebote fir Kleinkinder bis Jugendliche, Planschbecken, Kunststoff-Feld f r Fub- und Basketball. Ottensen, Fischers Allee/Bernadottestraee. Bus 15: Fischers Allee",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92867899973168,
+          53.55020300019248
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz am Pflug",
+        "OBJECTID": "14",
+        "beschreibu": "Spielangebote ffr alle Altersgruppen im Zentrum von Ottensen. Dazu Kunstrasen-Spielfeld und Wasserspielbereich. Ottensen, Am Pflug/Eulenstrare. Bus 1, 250: Bahrenfelder Straee",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.945562999888407,
+          53.559436999890714
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Zeiseweg",
+        "OBJECTID": "15",
+        "beschreibu": "Im Quartierspark Spiel- und Sportangebote ftr alle, Kunststoffspielfeld, Planschbecken, Gemeinschaftsgarten. Altona-Nord, Zeiseweg. Bus 15, 20, 25, 183, 283: Max-Brauer-Allee (Mitte)",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.942628999762524,
+          53.54764000006281
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Schleepark, 'Behni'",
+        "OBJECTID": "16",
+        "beschreibu": "Fpr alle Altersgruppen mit vielf'ltigem Spielangebot und Wassermatsch Anlage. Altona-Altstadt, Behnstrare. S 1, 3:  Konigstrase",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952473999880572,
+          53.55255899982597
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Walter-M ller-Park",
+        "OBJECTID": "17",
+        "beschreibu": "U. a. Seilzirkus, Hangrutsche, Planschbecken, Boulderwand, Skateanlage. Altona-Altstadt, Hostenstrase. S1, 2, 3: Reeperbahn, Bus 283: Paul-Roosen-Stra3e",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969898999637374,
+          53.56599299987145
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Sternschanzenpark",
+        "OBJECTID": "18",
+        "beschreibu": "In hlgeligem Gelende mit Rutschen, verschiedenen Spielger,ten, Seilbahn und Grillplatz. Sternschanze, Schr derstiftstrabe. S11, 21, 31, U3: Sternschanze, U2, U3:  Schlump",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.940517000342442,
+          53.6007900000678
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz in der \"Stellinger Schweiz\"",
+        "OBJECTID": "19",
+        "beschreibu": "Wo die Bezeichnung SStellinger Schweiz",
+        "link": "http://www.hamburg.de/spielplaetze/3910682/stellinger-schweiz.html",
+        "bild": "http://www.hamburg.de/contentblob/3909232/data/17_Stellinger-Schweiz_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.956270999821815,
+          53.64320900022048
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz am Grootseepark",
+        "OBJECTID": "20",
+        "beschreibu": "Spielplatz am Grootseepark Schaukel, Seilbahn, Kletterkombination fzr grjpere Kinder, Wasserspielanlage mit Feuerwehrauto und Klettergerlt f r kleinere. Niendorf, Mlrkerweg. Bus 24, 195:  Pommernweg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.972714999762465,
+          53.63273100010091
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Burgunderweg",
+        "OBJECTID": "21",
+        "beschreibu": "Im Wald am Rahwegteich, u.a. mit Seilbahn, Doppelschaukel, Wipp-Tieren, SpielhKuschen, Tischtennisplatten, Wackelbrhcken. Niendorf, Burgunderweg. Bus 191: Krdhenweg oder Moorrand",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.022665000075781,
+          53.67137100001941
+        ]
+      },
+      "properties": {
+        "name": "Spielplatze in der Grhnanlage Hohe Liedt",
+        "OBJECTID": "22",
+        "beschreibu": "Spielen, Klettern fGr Kinder und Jugendliche, u. a. Rutschen, Baumstemme. Picknick. Naturbad Kiwittsmoor. Langenhorn, Hohe Liedt. U1: Kiwittsmoor, Bus 192: Hohe Liedt",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.029340000066384,
+          53.66016700001802
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Weg Nr. 651",
+        "OBJECTID": "23",
+        "beschreibu": "Am Rand des Raakmoors, Umgebung waldig. Sandspiel- und Kletterangebote, groier Bolzplatz und Picknick. Langenhorn, Weg Nr. 651/ Raakmoor.  U1: Langenhorn Nord, Bus 192: Immenhaven",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.037873999757105,
+          53.631787999893824
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Alsterwiesen am Alsterwanderweg",
+        "OBJECTID": "24",
+        "beschreibu": "Spielen, Klettern. Mit Rutschen, Seilbahn, Seilzirkus, z.T. behindertengerecht. Ohlsdorf, Wellingsbctteler LandstraWe.  S1, 11:  Kornweg oder U1: Klein Borstel",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.022169999608145,
+          53.597108999953285
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz am Planschbecken im Stadtpark",
+        "OBJECTID": "25",
+        "beschreibu": "Als grlater unter den Stadtpark-Spielplktzen bietet er vielfbltige  Spiel- und Sportmoglichkeiten. Beliebter Anziehungspunkt ist das riesige Planschbecken, umgeben von einem feinen Sandstrand.",
+        "link": "http://www.hamburg.de/spielplaetze/3910676/stadtpark.html",
+        "bild": "http://www.hamburg.de/contentblob/4140388/data/Stadtpark+%25282%2529.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.005206999808705,
+          53.594222999982435
+        ]
+      },
+      "properties": {
+        "name": "Indianerspielplatz im Hamburger Stadtpark",
+        "OBJECTID": "26",
+        "beschreibu": "Spielen und Klettern im Wald, u.a. Seilbahn, Picknickmrglichkeiten, Grillplatz . Winterhude, Grasweg. U3, Bus 6, 179: Borgweg,   U3, Bus 109, 25: Sierichstrame",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.214621000302914,
+          53.48949800003411
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Schlonpark Bergedorf",
+        "OBJECTID": "27",
+        "beschreibu": "Der im Schatten alter Bkume gelegene Platz bietet ein breites Spielangebot und jede Menge Abwechslung f3r Kinder und Kleinkinder.",
+        "link": "http://www.hamburg.de/spielplaetze/3910674/schlosspark-bergedorf.html",
+        "bild": "http://www.hamburg.de/contentblob/3909176/data/15_Schlo%25C3%259Fpark-Bergedorf_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.183426000440333,
+          53.47618299986798
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Ameisweg",
+        "OBJECTID": "28",
+        "beschreibu": "Umgeben von Fleeten, ist die Kletterburg die Attraktion. Nettenburg, Ameisweg. S2, S21: Nettelnburg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.182068000157336,
+          53.473930999862596
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Gersonweg",
+        "OBJECTID": "29",
+        "beschreibu": "Spielgertte frr nltere Kinder und Jugendliche, Bolzplatz und Raumnetz. Nettelnburg, Gersonweg. S2, S21: Nettelnburg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.192964000411695,
+          53.45790300022372
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Kirchwerder Landweg",
+        "OBJECTID": "30",
+        "beschreibu": "Mit Kletterparcours, Bolzplatz, Picknickhitte. Ziel far Ausflug durch die Vier- und Marschlande. Neuengamme, Kirchwerder Landweg. Bus 124, 223, 323: Kirchwerder Landweg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.148184000391252,
+          53.48574100025036
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Adolf-Ksster-Damm",
+        "OBJECTID": "31",
+        "beschreibu": "Mehrere Spielplftze entlang der Hainbuchenallee fer Kleinkinder, Kinder und Jugendliche. Allerm.he-West, Adolf-Kcster-Damm. S21: Allerm2he",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.161110000049945,
+          53.48389900021292
+        ]
+      },
+      "properties": {
+        "name": "Wasserspielplatz Wilhelm-Osterhold-Stieg",
+        "OBJECTID": "32",
+        "beschreibu": "Saisonal in Betrieb. Nlrdlich des Allerm",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.171952999702555,
+          53.47647600001657
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Randfleet",
+        "OBJECTID": "33",
+        "beschreibu": "Direkt am Wasser. U.a. Tarzanschaukel und eine Skateanlage. Brlcke zur bespielbaren Insel. Neu-Allermehe, Anna-von-Gierke-Ring. S21: Allerm-he",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.959636999767833,
+          53.56625499974354
+        ]
+      },
+      "properties": {
+        "name": "Spielplatze im Lindenpark",
+        "OBJECTID": "34",
+        "beschreibu": "Das Besondere an diesem Spielplatz sind die nebeneinander liegenden Spielinseln mit Angeboten fAr alle Altersgruppen.",
+        "link": "http://www.hamburg.de/spielplaetze/3909800/lindenpark.html",
+        "bild": "http://www.hamburg.de/contentblob/3907734/data/08_Lindenpark_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.961853999668214,
+          53.568772000051815
+        ]
+      },
+      "properties": {
+        "name": "Energiespielplatz Bellealliancestra9e 57-63",
+        "OBJECTID": "35",
+        "beschreibu": "Elektronischer Parcours mit  interaktiven Computerspielen ab 8 Jahre: Kraft, Geschick, Teamarbeit. Eimsblttel, BellealliancestraSe 57-63. U2: Christuskirche",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.954380000334659,
+          53.571493000039624
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Wehbers Park",
+        "OBJECTID": "36",
+        "beschreibu": "Fpr Kinder und Jugendliche, individuell gestylte Skaterbowl. Eimsbrttel, Fruchtallee. U2: Emilienstrame. Ebenso: Grindelberg 62-66 (Bezirksamt), Spielplatz Eidelstedter Weg 10",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983619000412771,
+          53.578124000013055
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Innocentiapark",
+        "OBJECTID": "37",
+        "beschreibu": "Fpr Kleinkinder, Kinder und Jugendliche mit Wasserspielanlage und Picknickmuglichkeit. Harvestehude, Parkallee. U3, Bus 5: Hoheluftbrecke",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.910721999697325,
+          53.643878999814156
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Zylberbergstrane",
+        "OBJECTID": "38",
+        "beschreibu": "Fuiball,- und Basketballfeld, Tischtennisplatte,  Kletteranlagen, Picknicktische. Schnelsen, Zylberbergstrale.  Bus 5: Graf-Otto-Weg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.918180999860574,
+          53.6453230000639
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Kdnigskinder im Wassermannspark",
+        "OBJECTID": "39",
+        "beschreibu": "Im Jahr 2016 ist im Bezirk Eimsbrttel, am Kanigskinderweg in Schnelsen ein weiterer Spielplatz lberarbeitet worden.",
+        "link": "http://www.hamburg.de/spielplaetze/8719130/koenigskinder/",
+        "bild": "http://www.hamburg.de/contentblob/8718890/data/b-5-koenigskinder.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907041000107036,
+          53.604166999850904
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Wiebelstra/e",
+        "OBJECTID": "40",
+        "beschreibu": "Eine echte Herausforderung ftr kleine und groae Klettermaxen bietet seit einigen Jahren der Quartierspark an der Wiebelstra-e in Eidelstedt.",
+        "link": "http://www.hamburg.de/spielplaetze/3910696/wiebelstrasse.html",
+        "bild": "http://www.hamburg.de/contentblob/3909474/data/20_Wiebelstra%25C3%259Fe_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.964728000417928,
+          53.58954099978691
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Grandweg",
+        "OBJECTID": "41",
+        "beschreibu": "Fpr Kleinkinder Wasserpumpe, Bewegungsangebote und Picknick, f5r Kinder bis 14 Jahre mit groge Kletterpyramide. Fer Eltern Benke. Lokstedt, Grandweg/Veilchenweg. Bus 5: Veilchenweg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.957470000096126,
+          53.581266000240085
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Eidelstedter Weg 10",
+        "OBJECTID": "42",
+        "beschreibu": "Wassermatsch-Anlage, Graffitigalerie, Fugballfeld, Kletterkombi, Rihrenrutsche, barrierefreie Rollsportanlage. Lokstedt, Eidelstedter Weg 10. Bus 181:  Eidelstedter Weg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.147847000107367,
+          53.6461369997879
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Schemmannstrafe",
+        "OBJECTID": "43",
+        "beschreibu": "In Umfragen cber die schfnsten SpielplFtze Hamburgs werde der an der Schemmannstrare in Volksdorf mit Sicherheit auf den vorderen Rengen landen.",
+        "link": "http://www.hamburg.de/spielplaetze/3910666/schemmannstrasse.html",
+        "bild": "http://www.hamburg.de/contentblob/3909150/data/14_Schemmannstra%25C3%259Fe_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.083913000326358,
+          53.685628000155546
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Grote Koppel",
+        "OBJECTID": "44",
+        "beschreibu": "Hpgelig in lrndlicher Umgebung. Gro9e Kletterkombination,  Y-Hangrutsche, _H1ttendorft, kleiner Bolz- und Streetballplatz. Lemsahl-Mellingstedt, Grote Koppel. Bus  276: Tannenhof",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.136134000068381,
+          53.55251999985098
+        ]
+      },
+      "properties": {
+        "name": "Familienspielplatz im Ujendorfer Park",
+        "OBJECTID": "45",
+        "beschreibu": "In der Nshe des szdlichen Zugang. Spiele und Klettern, Wasserpumpen mit Rinnen und Matschbereich. Kiosk, WC. ejendorf, tber Reinskamp/Driftredder. U2: Merkenstrase, Bus 161, 233: Reinskamp",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.146440000318892,
+          53.56020599978163
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im sjendorfer Park",
+        "OBJECTID": "46",
+        "beschreibu": "Kpste und das dort zu findende Strandgut thematisiert das Spielen, Klettern, sowie Wasser- und Matschspiel-Bereich. Fitnessgerite. mjendorf, dber Bruhnregenredder. U2: Merkenstra e, Bus 161, 233: Reinskamp, Bus 233: Fuchsberg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.137263000022536,
+          53.53437799988471
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz an der Glinder Au",
+        "OBJECTID": "47",
+        "beschreibu": "Wasserspielplatz im Park. Daneben Abenteuerspielplatz Mammelmannsberg. Billstedt, An der Glinder Au. U2:  Steinfuhrter Allee, Mtmmelmannsberg, Bus 12: Steinbeker Markstrare",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.110058000444997,
+          53.556864000264724
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Schiffbeker Moor",
+        "OBJECTID": "48",
+        "beschreibu": "Fui-, Street-, Beachvolleyball, Skaten, Kletterwand f r Grole. Rutschen, Schaukeln,   Piratenschiff fUr Kleine. Horn, Everlingweg. Bus 161, 261:  Dannerallee, 27, 232: Prinzenweg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.076119000427324,
+          53.5520319997383
+        ]
+      },
+      "properties": {
+        "name": "Spielplatze im Blohms Park",
+        "OBJECTID": "49",
+        "beschreibu": "Zwei Spielplitze, viel Picknickflkche. BKhne frr Kleinkinder, \"Hammer Turm\" zum Klettern ftr sltere Kinder. Horn, Beim Rauhen Hause. U2, 4: Rauhes Haus, Bus 31, 116: Culinstrawe",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974667000247319,
+          53.554673000000896
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Groze Wallanlagen",
+        "OBJECTID": "50",
+        "beschreibu": "Seilzirkus, Tunnelrutschen, Wasserspielanlage. Nebenan Eisbahn und Kindertheater. Neustadt, Glacischaussee. U2: Messehallen, U3: St. Pauli, u.a. Bus 35, 3: Sievekingplatz",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.982124999687338,
+          53.56057199998988
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Planten un Blomen",
+        "OBJECTID": "51",
+        "beschreibu": "Fpr viele gebartige Hamburger ist er ein bedeutender Teil ihrer Kindheit und noch immer der Spielplatz Hamburgs schlechthin.",
+        "link": "http://www.hamburg.de/spielplaetze/3909896/planten-un-blomen.html",
+        "bild": "http://www.hamburg.de/contentblob/3908172/data/11_Planten-un-Blomen_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003630000140882,
+          53.493793000088424
+        ]
+      },
+      "properties": {
+        "name": "Spiel- und Bewegungsr/ume im Wilhelmsburger Inselpark",
+        "OBJECTID": "52",
+        "beschreibu": "Skatearena, Joggingstrecke, Mehrzweckfeld, Kanustrecke, Bewegungsgnrten, Hochseilgarten, Kletterhalle, Schwimmbad. Wilhelmsburg, Am Inselpark. S3, S31: Wilhelmsburg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99622600022922,
+          53.4943410001822
+        ]
+      },
+      "properties": {
+        "name": "Wasserspielplatz \"Windflkchter\" im Wilhelmsburger Inselpark",
+        "OBJECTID": "53",
+        "beschreibu": "Wasserspiel-Elemente unter Kiefern auf Sand und Holz. Wilhelmsburg, Kurdamm/Schllperstieg.  S3, 31: Wilhelmsburg, Bus 15: Wilhelmsburg Rathaus",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993308999821808,
+          53.49270200016381
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz \"Geheimnisvolle Insel\" im Wilhelmsburger Inselpark",
+        "OBJECTID": "54",
+        "beschreibu": "Ballonlandeplatz, Stangenwald, Vulkan als Kletterturm. Wilhelmsburg, Kurdamm/Schlpperstieg. S3, 31: Wilhelmsburg, Bus 15: Wilhelmsburg Rathaus",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.116248999838621,
+          53.54258500008385
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Archenholzstrawe",
+        "OBJECTID": "55",
+        "beschreibu": "Spiel- und Bewegungsort, Streetballskulptur, Kunststoffbolzplatz. In der Nmhe Outdoor-Fitness-Ger1te. Billstedt, Archenholzstrale. U2 Billstedt, Bus 233 Liebezeitstrale",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.089698999664012,
+          53.552431000170166
+        ]
+      },
+      "properties": {
+        "name": "Spielplatze im Grnnzug Sandkampweg",
+        "OBJECTID": "56",
+        "beschreibu": "Sandspielfl chen, Kunststoffspielfeld und GerKte zum Rutschen, Schaukeln und Klettern. Horn, Sandkampweg. U2: Horner Rennbahn, Bus 213: Hasencleverstra3e",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.075851999565332,
+          53.55638500025164
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Rhiemsweg",
+        "OBJECTID": "57",
+        "beschreibu": "Rutschen, Klettern, Schaukeln. Flr die Jdngeren Wasser- und Sandspielbereiche. Ftr die Hlteren Kunststoffspielfeld. Horn, Rhiemsweg. U2, 4: Rauhes Haus, Bus 161: Rhiemsweg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.05873200030537,
+          53.5466770001647
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz SederstraSe",
+        "OBJECTID": "58",
+        "beschreibu": "Spielen und Kletternfer Kleinkinder bis Jugendliche, u. a. eine Seilbahn, und ein Kunststoffspielfeld. Hamm-Sld, S.derstraRe/Steinbeker StraRe. Bus 112: Osterbrookplatz",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.040216000229266,
+          53.53327500019876
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Rothenburgsorter Marktplatz",
+        "OBJECTID": "59",
+        "beschreibu": "Klettern, Balancierstrecke, Vogelnestschaukel, Kleinkindspielbereich, Tischtennis. Rothenburgsort, Rothenburgsorter Marktplatz. Bus 3: Rothenburgsorter Marktplatz",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.015882000130137,
+          53.559256000241874
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Lohmchlenpark",
+        "OBJECTID": "60",
+        "beschreibu": "Im Sommer ist er einer der beliebtesten Treffpunkte fir Familien aus St. Georg: der Lohmnhlenpark in der Nuhe der Alster und des Hauptbahnhofes.",
+        "link": "http://www.hamburg.de/spielplaetze/3909822/lohmuehlenpark.html",
+        "bild": "http://www.hamburg.de/contentblob/3907786/data/09_Lohm%25C3%25BChlenpark_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995187999613371,
+          53.540139000047304
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Grasbrookpark",
+        "OBJECTID": "61",
+        "beschreibu": "Kpptain Blaubar war Pate: Spielschiff, Palmeninsel, Weidenlabyrinth, Strandgut, Vogelnestschaukel, Schatztruhe. HafenCity, H benerstrabe. U4:  .berseequartier",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97450999988847,
+          53.54652999983888
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Eichholz am Venusberg",
+        "OBJECTID": "62",
+        "beschreibu": "Bergrutsche und Wasser-Matsch-Bereich. Neustadt, Eichholz. S1,3 und U3: Landungsbrgcken",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969094000446642,
+          53.54927999988506
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Zirkusweg",
+        "OBJECTID": "63",
+        "beschreibu": "Gesellschaftsspieltische, Wasserspielbereich, verschiedene Spielger te, Trampolin, Boule- und Schachplatz. Nachts geschlossen. Pauli, Zirkusweg. U3, Bus 112: St. Pauli",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.962933000291954,
+          53.55444399988098
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Paulinenplatz",
+        "OBJECTID": "64",
+        "beschreibu": "Wasserspielanlage, Kletternetz, Seilbahn, Karussell,  BolzmSglichkeit. St. Paul, Wohlwillstra e. Bus 6:  Paulinenstrace",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.021126999867715,
+          53.48359500013777
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Karl-Arnold-Ring",
+        "OBJECTID": "65",
+        "beschreibu": "Tarzanschwinger, Bolzplatz, und Wasserspielanlage.  Kirchdorf-Scd, Karl-Arnold-Ring. Bus 13, 355 und 152 Kirchdorf (Scd)",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989722999767766,
+          53.51091700009781
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz RotenhBuser Feld",
+        "OBJECTID": "66",
+        "beschreibu": "Multisportanlage mit Beachvolleyballfeld, Bouleplatz, Skateanlage, Basketballfeld. Wilhelmsburg, Rotenh2user Damm.  Bus 13, 151, 156 und 252:  Veringstra1e Mitte",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.011583000048573,
+          53.48469199979493
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Kirchdorfer Straoe/ Granes Zentrum",
+        "OBJECTID": "67",
+        "beschreibu": "In Gewlssernihe mit Multisportanlage, Seilbahn und Kletternetz. Kirchdorf-Sld, Otto-Brenner-Stra e. Bus 13: Stabenhofer Weg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984179000279424,
+          53.5156910001914
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Sanitaspark",
+        "OBJECTID": "68",
+        "beschreibu": "An der ntrdlichsten Spitze des Veringkanals befand sich einst eine grooe Hartholzhandlung, die jedoch abbrannte. Auf diesem Gel,nde wurde 1985 V gemeinsam mit der angrenzenden Kita    der Spielplatz an der Sanitasstraue geschaffen.",
+        "link": "http://www.hamburg.de/spielplaetze/3910662/sanitasstrasse.html",
+        "bild": "http://www.hamburg.de/contentblob/3909130/data/13_Sanitasstra%25C3%259Fe_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.859908999568676,
+          53.535974999834394
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz am Ruschpark",
+        "OBJECTID": "69",
+        "beschreibu": "U. a BMX-Fahrbahn, Skateanlage mit Halfpipe, Grillplatz und Schutzh2tte. Finkenwerder, R0schweg. F5hre 64 : Roschpark,  Bus 146, 150: Nordmeerstraee",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.207080000123911,
+          53.50843399997007
+        ]
+      },
+      "properties": {
+        "name": "Grines Zentrum Lohbrkgge",
+        "OBJECTID": "70",
+        "beschreibu": "Klettern, Karussells, Seilbahn. Rutsche am Kurt-Adams-Platz, Skaten am Spielplatz Perelsstrawe. Lohbregge, LeuschnerstraBe. S2,21:  Bergedorf, Bus 234: Heidkampsredder",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.213779000403967,
+          53.49959300007117
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Billetal",
+        "OBJECTID": "71",
+        "beschreibu": "In reizvoller Umgebung im Billetal. Kanufahrer kAnnen hier rasten und picknicken. Lohbrsgge, eber Kiesweg HLhe am Beckerkamp 40. S2, 21: Bergedorf, Bus 12, 136, 137: Bornmnhlenweg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.191253999776213,
+          53.498488999903664
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Sander Tannen",
+        "OBJECTID": "72",
+        "beschreibu": "Mitten im Wald. Kletterburg, Schaukel, Rutschen, Pferdekutsche. Picknickplntze. Lohbrbgge, Walter-Hammer-Weg. Bus: 234 Richard-Linde-Weg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991387000372516,
+          53.667336999881634
+        ]
+      },
+      "properties": {
+        "name": "Funsportplatz an der Tarpenbek",
+        "OBJECTID": "73",
+        "beschreibu": "Seit Herbst 2011 ist der Norden Langenhorns um ein Freizeitangebot speziell fer Jugendliche reicher.",
+        "link": "http://www.hamburg.de/spielplaetze/3909738/essener-strasse.html",
+        "bild": "http://www.hamburg.de/contentblob/3907442/data/03_Essener-Stra%25C3%259Fe_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.996675999592723,
+          53.66954900015805
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Duisburger Straee",
+        "OBJECTID": "74",
+        "beschreibu": "U. a. lange Rutschen, Seilbahn, Wippe, Wasserpumpanlage,  Basketballfeld und Bolzplatz. Langenhorn, Duisburger Straee. Bus 292: Klinikum Nord, Ochsenzoll",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.013329999595674,
+          53.67029999995775
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Hammenmacherstieg",
+        "OBJECTID": "75",
+        "beschreibu": "Im Grpnzug:  Spielbereiche, Bolzplatz, Einbauten zum Skaten. kber Pflugschmiedweg oder Leyendeckerweg zu erreichen. Langenhorn, Hammenmacherstieg. U1:  Kiwittsmoor",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.990927999889859,
+          53.58838300009516
+        ]
+      },
+      "properties": {
+        "name": "Skateplatz 'Kelle'",
+        "OBJECTID": "76",
+        "beschreibu": "Direkt neben der U-Bahn-Station: 1.300 mi grote Skateanlage mit Pool und zahlreichen Obstacles. Eppendorf, Loogeplatz. U1, 3, Bus 22, 25, 26: Kellinghusenstrase",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989495999987028,
+          53.59625999979769
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Haynspark",
+        "OBJECTID": "77",
+        "beschreibu": "Fpr Kleinkinder besonders im Sommer  : Sandbaustelle und Kinderplanschbecken.  Eppendorf, Eppendorfer Landstrage. U1: Lattenkamp, Bus 114: Schubackstrase",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.033347999894799,
+          53.59633000004645
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Alte Wehr",
+        "OBJECTID": "78",
+        "beschreibu": "Am Rande des neuen Wohnquartiers auf dem Weg zum Stadtpark: Multi-Sportanlage, groees Seil-Kletterger t. Winterhude, Alte Wnhr. S 1, Bus 23:  Alte Wthr",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.992001999592425,
+          53.60005900017238
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Lattenkamp",
+        "OBJECTID": "79",
+        "beschreibu": "Am Alsterwanderweg: Kleinkinderbereich, Wassermatsch-Anlage, Spielhpgel mit Rutschenturm, Seilbahn, Bolz- und Streetballplatz. Winterhude, Lattenkamp/Meenkwiese. U1:  Lattenkamp",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.010557999851486,
+          53.58417299987381
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Schinkelstraie",
+        "OBJECTID": "80",
+        "beschreibu": "Verschiedene Spielebenen: Lange Tunnelrutsche bis auf Straeenniveau, Planschbecken ftr den Sommer. Winterhude, Goldbekplatz. Bus 6, 25 Goldbekplatz",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.033336000199238,
+          53.58097699978925
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz am Biedermannplatz",
+        "OBJECTID": "81",
+        "beschreibu": "Im Schleidenpark  frr Kleinkinder bis Jugendliche: u.a.  Planschbecken, Spiel- und Kletterangebote, lange Rutsche. Barmbek-S d, Weidestrale. Bus 171, 261: Biedermannplatz",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025540999577004,
+          53.58219400005615
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Weidestrare",
+        "OBJECTID": "82",
+        "beschreibu": "Wer seinem Sprdssling das Fahrradfahren oder die ersten Skateversuche beibringen m chte, ist im Johannes-Prassek-Park mit seinem integrierten Kinderspielplatz genau richtig.",
+        "link": "http://www.hamburg.de/spielplaetze/3910688/weidestrasse.html",
+        "bild": "http://www.hamburg.de/contentblob/3909370/data/19_Weidestra%25C3%259Fe_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0398880001662,
+          53.60112700013037
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Hartzloh",
+        "OBJECTID": "83",
+        "beschreibu": "U. a. Kletterfelsenanlage, grole Drehscheibe und ein Multisportfeld. Barmbek-Nord, Hartzloh. Bus 7, 172 und 39 Hartzloh",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.048956999609217,
+          53.599978000185004
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Langenfort",
+        "OBJECTID": "84",
+        "beschreibu": "Fpr alle Altersgruppen: Bolz- und Streetballplntze, Rollerbahn, Kletternetz, Doppelschaukel, Sandwerk mit Bagger. Barmbek-Nord, Langenfort. S1, 11: Alte Wlhr, Bus 177, 277: Langenfort",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.047409000253724,
+          53.58932200005565
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz SchwalbenstraBe",
+        "OBJECTID": "85",
+        "beschreibu": "Bolz- und Streetballplatz, asphaltierte Rollerbahn. Kleinkinderbereich mit Schaukeln und Gurtsteg. Barmbek-Nord, Schwalbenstra,e/Starstrate. S1, 11 und U3: Barmbek",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.054465000010847,
+          53.584496000231354
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Krausestrale",
+        "OBJECTID": "86",
+        "beschreibu": "Am Osterbekkanal. Wasser-Matsch-Bereich, Seilzirkus, Doppelseilbahn, Multisportarena, Bolzplatz. Barmbek-Nord, Krausestrane/Lammersieth. S1, 11, U3:  Barmbek, Bus 23: L2mmersieth",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.063321999741754,
+          53.584075999882145
+        ]
+      },
+      "properties": {
+        "name": "Spielplatze im Gr nzug Dulsberg",
+        "OBJECTID": "87",
+        "beschreibu": "Rollerbahn, Brunnenanlage mit Matschbereich, Multisportanlage. Nahe Vogesenstraae Streethockeyfeld. Dulsberg, Dulsberg-Nord/Dulsberg-Shd.  U1, Bus 23, 39: Alter Teichweg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.050385000212403,
+          53.574077000023806
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Eilbeker Park / Wandse-Grenzug",
+        "OBJECTID": "88",
+        "beschreibu": "Rutschenturm mit Kletterwand, Sitzkarussell, Spielhpuser. Schachplatz mit Garnituren. Eilbek, Friedrichsberger Straee. S1: Friedrichsberg, Bus 36: Seumestrale",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.221390000004861,
+          53.4018909999528
+        ]
+      },
+      "properties": {
+        "name": "Spielplatze am Marschenbahndamm",
+        "OBJECTID": "89",
+        "beschreibu": "Kirchwerder Marschenbahndamm: mGleisdreieck,: Lok, Turmrutsche. Deichvogt-Peters-Stra e: Nestschaukel, Kletterparcours, Picknicktische. Bus 120, 225, 424: West-Kraueler Bogen",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.973255000435966,
+          53.4483259997562
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Marmstorfer Weg im Stadtpark Harburg",
+        "OBJECTID": "90",
+        "beschreibu": "Fpr viele Familien mit kleinen Kindern stellt sich an einem hei en Sommertag die Frage: Auf den Spielplatz oder lieber inis Freibad? Warum nicht beides verbinden?",
+        "link": "http://www.hamburg.de/spielplaetze/3909842/marmsdorfer-weg.html",
+        "bild": "http://www.hamburg.de/contentblob/3907810/data/10_Marmstorfer-Weg_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.980794999891735,
+          53.44816500026185
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz  an der Au/enmthle im Harburger Stadtpark",
+        "OBJECTID": "91",
+        "beschreibu": "Am Ufer der Au enm hle liegt das Spielschiff im Sand. Steg frr Modellbootfans. N0he Frei- und Hallenbad Midsommerland. Wilstorf, Gotthelfweg. Bus 145: Midsommerland. Weitere Spielplrtze am Schulgarten und Nymphenweg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986474999822516,
+          53.46976399979385
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz auf der Harburger Schlossinsel",
+        "OBJECTID": "92",
+        "beschreibu": "U.a. Fischernetz-Reusenparcours zum Klettern, Rutsche, Hengematte, Nestschaukel, separater Kleinkinderbereich. Harburg, An der Horneburg/Am Festungsgraben. Bus 142, 157: Blohmstrape 203 Zeichen",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.979799999831915,
+          53.45860099989911
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz am Harburger Rathausplatz",
+        "OBJECTID": "93",
+        "beschreibu": "Wer mit seinem Sprussling schon immer einmal in die Steinzeit reisen wollte, der bekommt mitten in der Harburger Innenstadt die Mrglichkeit dazu.",
+        "link": "http://www.hamburg.de/spielplaetze/3909754/harburger-rathausplatz.html",
+        "bild": "http://www.hamburg.de/contentblob/3907558/data/05_Harburger-Rathausplatz_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983466000251898,
+          53.45560400013618
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz am Kalischer Platz",
+        "OBJECTID": "94",
+        "beschreibu": "Multisportanlage, Kletterlandschaft, Seilpyramide, Klettersteine. Pflaster fjr  Dreirad- und Rollerfahren, Rollerskaten. Harburg,  Kalischer Platz/Bunatwiete. S3,31: Harburg",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984040000362246,
+          53.45306499984388
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz \"Mikrokosmos Waldrand\"",
+        "OBJECTID": "95",
+        "beschreibu": "Parcours aus Netzen, Seilen, Trampelpfaden, Schaukel, Rutschen, Multifunktionsfeld frr alle Ballspiele. Harburg, Gerade Strabe. Bus 145: Maretstra/e (Std)",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970708999749284,
+          53.454899999824214
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Gthlbachtal",
+        "OBJECTID": "96",
+        "beschreibu": "Nestschaukel, Wasser-Matsch-Bereich, Kletterlandschaft. Bolzplatz mit regengeschltzter Sitztriblhne. Harburg, Steinikestrare. Bus 340, 245, 145, und 144 Harmsstra3e",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.872750999561779,
+          53.47440699990717
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz in der Parkanlage Rehrstieg",
+        "OBJECTID": "97",
+        "beschreibu": "Ein aufftlliges Wegesystem schlhngelt sich durch die Parkanlage und verbindet die einzelnen Spiel- und Nutzungsbereiche.",
+        "link": "http://www.hamburg.de/spielplaetze/8719218/rehrstieg/",
+        "bild": "http://www.hamburg.de/contentblob/8719098/data/b-11-rehrstieg.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.876627999868969,
+          53.47901700000239
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Drachenthal",
+        "OBJECTID": "98",
+        "beschreibu": "Wie ein schlummernder Drache in seinem Tal, so erscheint die riesige Betonskulptur in dem von Hochhuusern umgebenen Grenzug in Neuwiedenthal.",
+        "link": "http://www.hamburg.de/spielplaetze/3910696/wiebelstrasse.html",
+        "bild": "http://www.hamburg.de/contentblob/3907418/data/02_Drachenthal_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.856990000409724,
+          53.46687099973583
+        ]
+      },
+      "properties": {
+        "name": "Regenspielplatz Fischbeker Holtweg",
+        "OBJECTID": "99",
+        "beschreibu": "In der Grlnverbindung Nordheide/Ostheide in Neugraben-Fischbek entstand 2013 der erste Regenspielplatz Hamburgs.",
+        "link": "http://www.hamburg.de/spielplaetze/8719162/regenspielplatz/",
+        "bild": "http://www.hamburg.de/contentblob/8719062/data/b-4-regenspielplatz.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94034800028803,
+          53.4685179997476
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Meyers Park",
+        "OBJECTID": "100",
+        "beschreibu": "Familienspielplatz im Wald. Kleiner Seilzirkus, Grillanlage mit Schutzhwtten. In der Nthe gibt es einen Ponyhof. Heimfeld, Stader Straee. Bus 141, 251: Krankenhaus Mariahilf",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04718300029792,
+          53.6400480002495
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Josththe",
+        "OBJECTID": "101",
+        "beschreibu": "Die Anwohner von Hummelsbdttel kennen mit Sicherheit das kleine Dschungeldorf, das sich mitten im Wohngebiet in einer Parkanlage versteckt.",
+        "link": "http://www.hamburg.de/spielplaetze/3909762/josthoehe.html",
+        "bild": "http://www.hamburg.de/contentblob/3907602/data/06_Josth%25C3%25B6he_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06375500028512,
+          53.618759999939506
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz am Bramfelder See",
+        "OBJECTID": "102",
+        "beschreibu": "Stadtteiltreffpunkt Bramfeld, Steilshoop. Spiel-, Bewegungs- und Aufenthaltsangebote fer Kinder, Jugendliche, Eltern. Steilshoop, Borchertring. Bus 7, 177, 118: Borchertring",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.05206900001033,
+          53.60479599998865
+        ]
+      },
+      "properties": {
+        "name": "Dschungelspielplatz Steilhooper Strahe",
+        "OBJECTID": "103",
+        "beschreibu": "Giraffen-Rutsche auf Hegel, Dschungelpfad durch Gebesch, Motorik-Parcours und Bolz- und Baskekballfelder. Steilshoop, Steilshooper Straee. Bus 227:  Richeystra:e",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.059106000399176,
+          53.60517399990381
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz Appelhofweiher",
+        "OBJECTID": "104",
+        "beschreibu": "Es muss nicht gleich ein Ausflug aufls Land sein, um ein bisschen Bauernhof-Atmosph re zu schnuppern. Im Stadtteil Alt-Steilshoop genrgt ein Besuch auf dem Spielplatz am Appelhoffweiher - Sport und Bewegung fpr Jung und Alt inclusive.",
+        "link": "http://www.hamburg.de/spielplaetze/3909714/appelhoffweiher.html",
+        "bild": "http://www.hamburg.de/contentblob/3907396/data/01_Appelhoffweiher_01.jpg?width=200&height=150&keepRatio=true",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108090999891575,
+          53.654277999998406
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Saseler Park",
+        "OBJECTID": "105",
+        "beschreibu": "Kletter- und Balancierparcours, Seilbahn. Spiel- und Sportangebote f.r gltere Kinder und Jugendliche. Saselhaus mit CafS ePauseo. Sasel, Saseler Parkweg. Bus 24: Saseler Markt",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.145313999839479,
+          53.58332800021037
+        ]
+      },
+      "properties": {
+        "name": "Spielplatz im Hohenhorst Park",
+        "OBJECTID": "106",
+        "beschreibu": "Direkt am 'Haus Am See' Wasser-Matsch-Anlage, Kletterstangen, Trampolin und Bolzflechen. Rahlstedt, Schaneberger Straae. Bus 35, 262, 27 und 162 Berliner Platz",
+        "link": "",
+        "bild": "",
+        "kategorie": "Spielplatz"
+      }
+    }
+  ]
+}
